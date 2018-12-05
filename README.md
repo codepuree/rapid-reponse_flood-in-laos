@@ -6,6 +6,8 @@
 
 ## Structure
 
+![Structure](./Aufbaustudienarbeit.PNG)
+
 - Abstract
 - Introduction
 - Data
